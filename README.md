@@ -1,7 +1,5 @@
 # E-Commerce Product Listing Application
 
-This React-based application offers a streamlined e-commerce shopping experience, allowing users to browse products, add items to their cart, and search for specific products. It features a responsive design for product listings, an intuitive search function, and a dynamic cart that updates in real-time. Stylish UI improvements have been applied to the cart and search bar for enhanced user interaction and visual appeal.
-
 ## Features
 
 - **Product Listing**: Products are displayed with pagination to ensure a clean and manageable user interface.
